@@ -81,6 +81,11 @@ conhecimentos de VueJs, pode ser feito o front com angular). Utilizar a versão 
   # Acessar o sistema
   $ http://localhost:8080/
 
+  # caso a porta 8080 esteja em uso, vai ser utilizada outra, verificar a saída do console
+   App running at:
+    - Local:   http://localhost:8080/
+    - Network: http://192.168.15.122:8080/
+
 ```
 
 ![transferencias](https://github.com/user-attachments/assets/3269b1c9-e43c-424d-8193-b40a0caa73bf)
