@@ -56,7 +56,8 @@ conhecimentos de VueJs, pode ser feito o front com angular). Utilizar a versão 
 
 #### [**http://localhost:8081/api/swagger-ui/index.html**](http://localhost:8081/api/swagger-ui/index.html)
 
-![openapi](https://github.com/user-attachments/assets/b73b1c84-2906-4e41-b9fd-f7a4aa7b8b2f)
+![openapi](https://github.com/user-attachments/assets/680029c9-fb3a-4b6d-af54-3b3ba134625c)
+
 
 
 <br /><br />
@@ -82,7 +83,8 @@ conhecimentos de VueJs, pode ser feito o front com angular). Utilizar a versão 
 
 ```
 
-![transferencias](https://github.com/user-attachments/assets/666faad8-fec3-4910-9bdb-84d38d437da5)
+![transferencias](https://github.com/user-attachments/assets/3269b1c9-e43c-424d-8193-b40a0caa73bf)
+
 
 
 <br /><br />
