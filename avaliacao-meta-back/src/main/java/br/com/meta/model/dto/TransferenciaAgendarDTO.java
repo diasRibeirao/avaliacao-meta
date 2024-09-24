@@ -25,7 +25,7 @@ public class TransferenciaAgendarDTO {
     private BigDecimal valorTransferencia;
 
     @NotNull(message = "A data da transferência é obrigatória")
-    @Schema(type = "string", pattern = "dd/MM/yyyy", example = "22/06/2024")
+    @Schema(type = "string", pattern = "dd/MM/yyyy", example = "22/06/2025")
     private String dataTransferencia;
 
 }

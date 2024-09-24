@@ -102,7 +102,7 @@ class TransferenciasControllerTest {
                                 "  \"contaOrigem\": \"4514387243\",\n" +
                                 "  \"contaDestino\": \"1844115089\",\n" +
                                 "  \"valorTransferencia\": 354.22,\n" +
-                                "  \"dataTransferencia\": \"22/06/2024\"\n" +
+                                "  \"dataTransferencia\": \"22/06/2025\"\n" +
                                 "}")
                         .contentType(MediaType.APPLICATION_JSON)
                         .accept(MediaType.APPLICATION_JSON))
